@@ -1,0 +1,6 @@
+Pillow
+numpy
+matplotlib
+mtcnn
+tensorflow-gpu==1.15
+keras
